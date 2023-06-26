@@ -187,6 +187,15 @@ Modify the block below if there are any special requirements.
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
+<p>
+  <strong>Prerequisites:</strong>
+  Learners are expected to have the follow prerequisite knowledge:
+  <ul>
+    <li>Introducotry Python programming skills (variable assignments, how to create a function, for loops, etc.) and familiarity with the Pandas package. If you need a refresher on Python before taking this workshop, please review the lesson materials from this Introductory Python Carpentries workshop.</li>
+    <li>Familiarity with basic machine learning concepts including train/test splits and overfitting.</li>
+  </ul>
+</p>
+
 {% comment %}
 ACCESSIBILITY
 
