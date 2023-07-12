@@ -191,8 +191,8 @@ Modify the block below if there are any special requirements.
   <strong>Prerequisites:</strong>
   Learners are expected to have the follow prerequisite knowledge:
   <ul>
-    <li>Introducotry Python programming skills (variable assignments, how to create a function, for loops, etc.) and familiarity with the Pandas package. If you need a refresher on Python before taking this workshop, please review the lesson materials from this Introductory Python Carpentries workshop.</li>
-    <li>Familiarity with basic machine learning concepts including train/test splits and overfitting.</li>
+    <li>Introducotry Python programming skills (variable assignments, how to create a function, for loops, etc.) and familiarity with the Pandas package. If you need a refresher on Python before taking this workshop, please review the lesson materials from this [Introductory Python Carpentries workshop](https://swcarpentry.github.io/python-novice-inflammation/index.html).</li>
+    <li>Familiarity with basic machine learning concepts including train/test splits and overfitting. For a refresher on machine learning basics, please review the lesson materials from the [Intro to Machine Learning with Sklearn workshop](https://carpentries-incubator.github.io/machine-learning-novice-sklearn/)</li>
   </ul>
 </p>
 
